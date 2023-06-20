@@ -136,7 +136,6 @@
     "dkuProperties": []
   },
   "name": "MTP-git",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -193,11 +192,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1687253269305,
+    "lastModifiedOn": 1687259407441,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -209,7 +208,9 @@
     "extendedProperties": {}
   },
   "shortDesc": "The project *MTP-git* was created by Administrator on Jun 20th 2023",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
