@@ -135,7 +135,7 @@
     },
     "dkuProperties": []
   },
-  "name": "MTP-git",
+  "name": "MTP-git (branch1)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -192,11 +192,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1687259407441,
+    "lastModifiedOn": 1687259410202,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -207,7 +207,7 @@
     "lastModifiedOn": 1687253259145,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *MTP-git* was created by Administrator on Jun 20th 2023",
+  "shortDesc": "The project *MTP-git* was created by Administrator on Jun 20th 2023\nThe project *MTP_GIT_BRANCH1* was copied from *MTPGIT* by Administrator on juin 20th 2023",
   "tags": [
     "duplicated"
   ],
